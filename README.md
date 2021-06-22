@@ -7,3 +7,4 @@ Day3：运算符等内容：
                 step1： import java.util.Scanner;              导入包
                 Step2:Scanner sc = new Scanner(System.in);      创建scanner
                 Step2: sc.nextInt();                            开始使用scanner的方法
+Day4：首先再一次实现昨天的代码；
