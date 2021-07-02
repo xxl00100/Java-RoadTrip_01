@@ -16,3 +16,4 @@ Day9:内存分析;this的使用;static关键字;代码块;包;
 Day10: 在网站上做习题,巩固前几天的知识点;封装;
 Day11: 继承;super;权限修饰符private-default-protected-public;继承条件下的方法重载;
 Day11:toString方法,equals方法;类和类的三种关系-继承-实现-关联;
+Day11:多态-继承;重写方法;父类指向子类的具体实力对象
