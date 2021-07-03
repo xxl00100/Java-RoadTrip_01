@@ -18,3 +18,4 @@ Day11: 继承;super;权限修饰符private-default-protected-public;继承条件
 Day11:toString方法,equals方法;类和类的三种关系-继承-实现-关联;
 Day11:多态-继承;重写方法;父类指向子类的具体实力对象;向上转型-向下转型;简单工厂设计模式;
 Day11:final修饰符;抽象abstract;接口interface;内部类;
+Day11：练习面向对象的习题。利用了继承、多态、抽象。错误发生最多的地方是拼写错误，导致debug很长时间都没有发现；铭记多态是方法的多态，和属性没关系。
