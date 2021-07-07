@@ -37,3 +37,5 @@ Day13-0:包装类、自动装箱、自动拆箱、常用包装类方法；
 Day13_0:日期相关内容.重点是打印日期的习题.明天再练习几遍;
 Day13_1:计划明天String\math\random类;
 Day13_2:本条写于2021-7-6暂停一天
+Day14_0:复习calendar习题
+Day14_1:Sting\math\random类；不可变string和可变StringBuilder、StringBuffer
