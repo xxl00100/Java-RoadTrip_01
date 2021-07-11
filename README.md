@@ -42,3 +42,4 @@ Day14_1:Sting\math\random类；不可变string和可变StringBuilder、StringBuf
 Day14_2:重新组织了一下文件结构
 Day15_0:集合Collection、list接口常用方法；泛型引入；泛型类和泛型接口；
 Day16_0:复习泛型；
+Day16_1:实现linkedlist;
