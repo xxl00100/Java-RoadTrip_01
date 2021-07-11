@@ -44,3 +44,4 @@ Day15_0:集合Collection、list接口常用方法；泛型引入；泛型类和�
 Day16_0:复习泛型；
 Day16_1:实现linkedlist;
 Day16_2:上传Day16_2_MyLinkedlist，再一次复习实现linkedlist;
+Day16_3:上传Day16_3_Iterator_Of_List，练习itterator和listIterator;并发修改异常；
