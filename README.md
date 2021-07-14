@@ -51,3 +51,4 @@ Day17_2:练习内部外部比较器；内部比较器是自己实现Comparable�
 Day17_3:练习treeSet，特点不重复，自动升序排列；升序的依据根据比较器确定、如果是内部比较器需要实现comparable接口并重写CompareTo方法；如果是外部比较器需要实现Comparator接口，重写Compare方法；
          可以通过TressSet<> ts=new TreeSet<>(外部比较器）; 对集合进行制定比较器；
 Day17_4:练习treeMap；Map常用方法；比较器；使用匿名内部类制定外部比较器
+Day17_5:学习HashMap、hashset;Treeset,TreeMap,collections工具类
