@@ -45,3 +45,4 @@ Day16_0:复习泛型；
 Day16_1:实现linkedlist;
 Day16_2:上传Day16_2_MyLinkedlist，再一次复习实现linkedlist;
 Day16_3:上传Day16_3_Iterator_Of_List，练习itterator和listIterator;并发修改异常；
+Day17_0:复习一下itterator和listIterator;并发修改异常；由于最近比较忙无法保证每天都在学习，必须得研究一下，让自己能够每天投入到学习中
