@@ -46,3 +46,5 @@ Day16_1:实现linkedlist;
 Day16_2:上传Day16_2_MyLinkedlist，再一次复习实现linkedlist;
 Day16_3:上传Day16_3_Iterator_Of_List，练习itterator和listIterator;并发修改异常；
 Day17_0:复习一下itterator和listIterator;并发修改异常；由于最近比较忙无法保证每天都在学习，必须得研究一下，让自己能够每天投入到学习中
+Day17_1:练习hashset
+Day17_2:练习内部外部比较器；内部比较器是自己实现Comparable接口并重写compareTo方法，健壮性不强；外部比较器是新建一个实现了comparator接口并重写了compare方法的外部类，健壮性好，推荐。
