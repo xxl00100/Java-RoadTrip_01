@@ -55,3 +55,10 @@ Day17_5:学习HashMap、hashset;Treeset,TreeMap,collections工具类
 Day18_0：复习Collections工具类ReviewCollections；addAll、sort、binarySearch、copy、fill
 Day18_1:引入file类，进行练习。
 Day19_0:Filereader and Filewriter
+Day19_1: fileInputstream  fileoutputstream
+Day19_2: BufferedInputStream  BufferedoutputStream
+Day19_3:Filereader  filewriter
+Day19_4:InputStreamReader OutputStreamReader
+
+
+
