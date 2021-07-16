@@ -54,3 +54,4 @@ Day17_4:练习treeMap；Map常用方法；比较器；使用匿名内部类制�
 Day17_5:学习HashMap、hashset;Treeset,TreeMap,collections工具类
 Day18_0：复习Collections工具类ReviewCollections；addAll、sort、binarySearch、copy、fill
 Day18_1:引入file类，进行练习。
+Day19_0:Filereader and Filewriter
