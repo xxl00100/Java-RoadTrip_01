@@ -60,6 +60,7 @@ Day19_2: BufferedInputStream  BufferedoutputStream
 Day19_3:Filereader  filewriter
 Day19_4:InputStreamReader OutputStreamReader
 Day20_0:复习Day19，学习完io剩下的基础，还没练习。
-
+Day21_0:复习IO。
+Day21_1:序列化、反序列化、结束IO的内容。明天开始学习线程。
 
 
