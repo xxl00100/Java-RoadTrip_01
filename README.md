@@ -64,4 +64,6 @@ Day21_0:复习IO。
 Day21_1:序列化、反序列化、结束IO的内容。明天开始学习线程。
 Day22_0:线程的三种创建方式-继承Thread，实现Runable，实现Callable（有返回值，可抛异常，但是创建麻烦）。
 Day23_0:线程复习；线程常用方法
+Day24_0~4:复习线程内容;线程安全lock和synchronized;线程通信
+Day24_5~6:网络通信.InetAddress和InetSocketAddress;实现tcp的双向通信;
 
