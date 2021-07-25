@@ -69,3 +69,5 @@ Day24_5~6:网络通信.InetAddress和InetSocketAddress;实现tcp的双向通信;
 Day25_0: 复习day24
 Day25_1: TCP通信优化
 Day25_2:UDP引入,单向通信.
+Day26_0:复习Day25
+Day26_1:UDP双向通信；Annotation相关内容
