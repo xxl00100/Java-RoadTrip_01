@@ -71,3 +71,4 @@ Day25_1: TCP通信优化
 Day25_2:UDP引入,单向通信.
 Day26_0:复习Day25
 Day26_1:UDP双向通信；Annotation相关内容
+Day27_0_:完成注解和枚举类,但是练习javadoc把以前的.java文件全部弄成了.html,搞了半天没有解决只能新建一个project; 还好每天都上传了,不然就惨了
